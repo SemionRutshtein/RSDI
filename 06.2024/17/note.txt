@@ -1,0 +1,20 @@
+
+
+
+
+		So this is the first day 
+
+	Documentation and thinght about way and project relise 
+___________________________
+Hope will not be the end
+
+
+	Main task:
+1. Persistence
+2. CLI only
+3. Practice oriented
+4. English righting only
+5. STACK using: JAVA, PYTHON, BASH, C, DOCKER, K8s
+
+
+
